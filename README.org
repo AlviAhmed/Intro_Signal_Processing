@@ -12,3 +12,22 @@ The objective of this lab was to create, develop and modify various
 real-time signals using Code Composer Studio. 
 
 
+** Part 1 
+
+Part 1 of this lab involves creating a sine wave from a
+lookup table. The frequency of this signal is then varies by 250Hz increments via
+a GEL slider. 
+
+** Part 2 
+
+Part 2 of this lab involves creating a cosine waveform from the same
+lookup table as the sine wave. This was done by putting the sine and
+cosine waves in quadrature.
+
+** Part 3 
+
+Part 3 involves designing and generating an amplitude modulated
+signal. After which GEL sliders are created and used to adjust the
+frequency of the modulated signal, frequency of carrier and modulation
+index of the modulated signal.
+

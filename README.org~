@@ -1,0 +1,14 @@
+#+LaTeX_CLASS: mycustom 
+
+#+TITLE: Introduction to Signal Processing
+#+AUTHOR: Alvi Ahmed
+
+*Status:* Completed 
+*Type:* ELE792 Lab
+
+* Objective 
+
+The objective of this lab was to create, develop and modify various
+real-time signals using Code Composer Studio. 
+
+
